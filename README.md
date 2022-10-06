@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Merulast
 - 👀 I’m interested in compiler development
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning programming with #deno and #svelte
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me? You wont.
 
